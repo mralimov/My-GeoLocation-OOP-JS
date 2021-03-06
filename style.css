@@ -33,3 +33,10 @@
   
     display: flex;
   }
+
+  
+/* GENERAL */
+a:link,
+a:visited {
+  color: var(--color-brand--1);
+}
